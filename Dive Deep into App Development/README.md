@@ -71,7 +71,9 @@ Overview of app deployment options (app stores, beta testing, etc.)
 * Aastha Sahoo (8144151551)
 * Shahu Patil  (9146050850)
 
-Join the WnCC [Telegram](https://t.me/joinchat/WHfOTR41RrD9DLL6) channel for regular updates of our events.
+Join our [MS Teams](https://teams.live.com/l/community/FEA4H__W1hSJ5yWYQI) to post your queries and have discussions.
+<br>
+Also join the WnCC [Telegram](https://t.me/joinchat/WHfOTR41RrD9DLL6) channel for regular updates of our events.
 
 <p align="center">Created with :heart: by <a href="https://www.wncc-iitb.org/">WnCC</a></p>
 
