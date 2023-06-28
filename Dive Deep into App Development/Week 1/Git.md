@@ -5,7 +5,8 @@ Git is a distributed version control system (VCS) widely used in software develo
 ## What's GitHub?
 GitHub is a web-based platform that provides hosting services for Git repositories. It offers a robust set of features and tools that facilitate collaboration, version control, and project management for software development teams. GitHub serves as a central hub for developers to store, manage, and share their code with others.
 ## Installation
-Before we begin, we first need to install Git. To install follow this [link](https://www.linode.com/docs/development/version-control/how-to-install-git-on-linux-mac-and-windows/)
+Follow the tutorial below to setup Git on your PC.
+### [Git Installation Tutorial](https://www.linode.com/docs/development/version-control/how-to-install-git-on-linux-mac-and-windows/)
 ## Familiarizing Yourself with Git and GitHub
 If you are completely new to this, here's a [video](https://youtu.be/tRZGeaHPoaw) to help you out. Give this [article](https://www.hostinger.in/tutorials/basic-git-commands) a read to know about some basic git commands and their uses.
 > **Note**
