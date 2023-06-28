@@ -4,7 +4,6 @@ Dart is a programming language developed by Google. It is designed to be used fo
 ### Text editors for Dart:
 1. Browser based:
 * [DartPad](https://dartpad.dev/?null_safety=true "DartPad")
-*  [Repl.it](repl.it "Repl.it")
 2. Set up based:
  * Visual studio code- install the extension "Dart" by Dart code
  ![image](https://github.com/ShahuPatil07/Basics-of-Dart-and-Object-oriented-programming/assets/135165337/7cf2192f-810c-45a6-bb88-1feb44cf18f5)
