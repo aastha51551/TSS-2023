@@ -1,7 +1,7 @@
 # Welcome to the Tutorial
 ***In this tutorial, we will learn to make a simple counter app which has an increment button***
 <br>
-Given below is the code for the app. You can copy this code for testing or you can clone this [repo]()
+Given below is the code for the app. You can copy this code for testing or you can clone this [repo](SampleCode)
 ```
 import 'package:flutter/material.dart';
 void main() {
@@ -122,10 +122,7 @@ In Flutter, `Scaffold` is a pre-built widget provided by the Flutter framework t
             Text(
               '$_counter',
               style: TextStyle(fontSize: 40, fontWeight: FontWeight.bold),
-            ),
-          ],
-        ),
-      ),
+            
 ```
 Here , We define the body of the app. We create a widget which is aligned to the center of the screen and has the text **Counter Value:**.In the same widget, we update the text according to our counter value using `'$_counter'`.
 
