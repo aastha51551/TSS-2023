@@ -1,7 +1,7 @@
 # TSS-2023
 Greetings from Web & Coding Club!
 
-WnCC proudly presents the following courses under Technical Summer School 2021 - 
+WnCC proudly presents the following courses under Technical Summer School 2023 - 
 
 * [Data Structure and Algorithm]()
 * [Intro to App Development]()
