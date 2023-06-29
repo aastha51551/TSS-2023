@@ -135,4 +135,5 @@ floatingActionButton: FloatingActionButton(
 The `floatingActionButton` is a named parameter of the Scaffold widget.Within the `floatingActionButton` parameter, a `FloatingActionButton` widget is created. The `FloatingActionButton` is a pre-defined widget in the Flutter framework that represents a circular material design button.` onPressed:` tells us that when the button is pressed the previously defined function `_incrementCounter()` is called.
 <br>
 `child` parameter specifies the child widget to be displayed inside the FloatingActionButton. Here, an `Icon` widget with the `Icons.add` icon is used . This displays a "+" symbol inside the floating action button.
-> Note: This is just a basic tutorial to help you with your assignment.Concepts related to OOPs and widgets will be covered in detail later in the course.If you don't understand any particular segment of code that hasn't been covered in this tutorial, stay assured it will be covered later. 
+> **Note**
+>  This is just a basic tutorial to help you with your assignment.Concepts related to OOPs and widgets will be covered in detail later in the course.If you don't understand any particular segment of code that hasn't been covered in this tutorial, stay assured it will be covered later. 
