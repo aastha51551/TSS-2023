@@ -13,7 +13,7 @@ The following topics will be covered in this week:
 
 &nbsp;&nbsp;&nbsp;&nbsp; 4.[Tutorial ](Tutorial.md)
 
-&nbsp;&nbsp;&nbsp;&nbsp; 5.[**Assignment** (to be completed in this week)]()
+&nbsp;&nbsp;&nbsp;&nbsp; 5.[**Assignment** (to be completed in this week)](Assignment.md)
 
 
 **Proper completion of the assignment is mandatory in order to receive the certificate**
