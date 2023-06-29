@@ -12,3 +12,28 @@ If you are completely new to this, here's a [video](https://youtu.be/PSJ63LULKHA
 > **Note**
 > It is essential to understand Git and GitHub as it will be your primary means to submit your assignments throughout this course. Also, it's knowledge is important if you are interested in working with open source projects in future.
 
+### Initializing App Development project as Git repository and updating on GitHub:
+To initialize an App Dev project as a Git repository and update it on GitHub using the command prompt, follow these steps:
+* Create a new repository on GitHub: Go to [GitHub](https://github.com) and create a new repository. Take note of the repository URL.
+* Open the command prompt or terminal on your computer.                                                                                      
+ Navigate to the project directory: Use the cd command to navigate to the directory where your App Dev project is located. For example:     
+  #### *cd C:\path\to\your\project*
+
+* Initialize Git repository: Run the following command to initialize a Git repository in your project directory:                           
+  #### *git init*
+
+* Add files to the repository: Add all the files in your project directory to the Git repository using the following command:                 
+  #### *git add .*
+
+* Commit the changes: Create an initial commit for your project using the following command:                                                            
+  #### *git commit -m "write name of this commit "*
+
+* Add the remote repository: Link your local repository to the GitHub repository by adding a remote origin. Replace <repository-url> with the URL of your GitHub repository:
+  #### *git remote add origin <repository-url>*
+
+* Push the changes to GitHub: Push your local repository to GitHub using the following command. Note: If you are working with a different branch, replace master with the branch name.
+  #### *git push -u origin master*
+
+  You will have to enter login details of GitHub and its done!
+
+  
