@@ -1,5 +1,5 @@
 # Week 1 Agenda
-Welcome to Dive Deep into App Development,TSS 2023!
+Welcome to Deep Dive into App Development,TSS 2023!
 
 
 The following topics will be covered in this week:
