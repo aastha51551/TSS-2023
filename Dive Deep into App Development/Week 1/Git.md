@@ -8,7 +8,7 @@ GitHub is a web-based platform that provides hosting services for Git repositori
 Follow the tutorial below to setup Git on your PC.
 ### [Git Installation Tutorial](https://www.linode.com/docs/development/version-control/how-to-install-git-on-linux-mac-and-windows/)
 ## Familiarizing Yourself with Git and GitHub
-If you are completely new to this, here's a [video](https://youtu.be/tRZGeaHPoaw) to help you out. Give this [article](https://www.hostinger.in/tutorials/basic-git-commands) a read to know about some basic git commands and their uses.
+If you are completely new to this, here's a [video](https://youtu.be/PSJ63LULKHA) to help you out. Give this [article](https://www.hostinger.in/tutorials/basic-git-commands) a read to know about some basic git commands and their uses.
 > **Note**
 > It is essential to understand Git and GitHub as it will be your primary means to submit your assignments throughout this course. Also, it's knowledge is important if you are interested in working with open source projects in future.
 
