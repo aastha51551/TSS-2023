@@ -73,7 +73,9 @@ Overview of app deployment options (app stores, beta testing, etc.)
 
 Join our [MS Teams](https://teams.microsoft.com/l/team/19%3aOsl_YleuzDBdJtwhggo9RygyQSep5v54u5hs0kSTlrg1%40thread.tacv2/conversations?groupId=d5cd9977-8bae-4930-bded-5f79ebfb036c&tenantId=403ee5f4-55b3-45cd-8ae2-824be887a075) to post your queries and have discussions.
 <br>
-Also join the WnCC [WhatsApp (update link)](https://t.me/joinchat/WHfOTR41RrD9DLL6) channel for regular updates of our events.
+Also join the WnCC [WhatsApp](https://chat.whatsapp.com/EHA9cUj9vwOBjp1kHTmP9d) channel for regular updates and announcements.
+
+***
 
 <p align="center">Created with :heart: by <a href="https://www.wncc-iitb.org/">WnCC</a></p>
 
