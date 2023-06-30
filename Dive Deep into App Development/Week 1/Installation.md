@@ -3,32 +3,16 @@
 # Flutter
 * Flutter is an open-source UI framework developed by Google that allows developers to create cross-platform applications for mobile, web, and desktop platforms using a single codebase. Traditionally, developing applications for different platforms required separate teams of developers using different programming languages and frameworks, resulting in increased development time and maintenance costs. Flutter addresses these challenges by enabling developers to write code once and deploy it on multiple platforms. With Flutter, developers can build visually stunning, high-performance applications that can run on iOS, Android, web browsers, and even desktop platforms like Windows, macOS, and Linux.
 
-### Installation of flutter in Windows:
-* follow the upcoming tutorial to install flutter: [Install Flutter](https://www.youtube.com/watch?v=BqHOtlh3Dd4)
+<h1> Installation of flutter in Windows: </h1>
+
+* Follow this tutorial to install flutter: [Install Flutter](https://www.youtube.com/watch?v=BqHOtlh3Dd4)
 * Those who prefer documentation over video can visit: [Flutter install Documentation](https://docs.flutter.dev/get-started/install)
 
-### Testing of App:
-* While programming an App, we will have to run our app multiple times to see its current status. 
-
-  
-* Running flutter on real device: Real devices provide an accurate representation of how your application will behave in the hands of real users.Real device testing allows you to assess the performance of your app in real-world scenarios.For this we can connect our phone to the programming device through USB cable. Here's a short tutorial for this:
-* [Run flutter app on real device](https://www.youtube.com/watch?v=v01ISnOIbL8)
-* (Alternative) Emulator: Emulators are virtual devices that mimic the behavior of real devices. They provide a simulated environment to test and debug your Flutter application. If someone prefers app emulator over real device, here's a tutorial explaining steps to be followed:
-*  [Android Virtual Device for Flutter](https://www.youtube.com/watch?v=tB1sjfijupU)
-
-*It needs to be noted that running an application in flutter may take time for the first time in both real device and virtal device (emulator).
-<br>
-<br>
-<br>
-<br>
 <h1>Setup for MAC OS</h1>
 <br>
 <h2>Step wise method to set up flutter in your MAC OS:-</h2>
-
-Refer to the [official website for fliutter installation](https://docs.flutter.dev/get-started/install/macos#android-setup)
+Refer to the [official documentation for fliutter installation](https://docs.flutter.dev/get-started/install/macos#android-setup)
 This will setup the required environment needed for you to set up flutter in your mac.
-
-Another thing to refer is [youtube video to setup flutter on MAC OS](https://www.youtube.com/watch?v=fEfMYAAeHmY). this will give you only a glance of what the setup will look like but won't give you the complete infromation so stick to the commands entioned in the text below.
 
 <h2>Coming on the steps to set up flutter:-</h2>
 <ol>
@@ -79,13 +63,13 @@ receive a red cross. (The ways to solve each cross will be discussed later.)</li
 <li>Open VS Code and download the extensions flutter and dart.</li>
 <br>
 														
-<li>On android studio install the flutter and dart plugins. The rest of the settings on X code <br>
-and Android studio code are to be done according to the above mentioned video.<br>
+<li>On Android Studio install the flutter and dart plugins. The rest of the settings on X code <br>
+and Android studio code are to be done according to the above-mentioned video.<br>
 Make sure you download the files in the correct directory and install the packages that 
 you require for your app.</li>
 </ol>
 
-<h2>Solution to flutter doctor errors:-</h2>
+<h2>Solution to flutter doctor errors in MAC OS:-</h2>
 <ol>
 	
 <li>
@@ -123,7 +107,24 @@ Now open VS Code and use the command palette to start a new flutter project and 
 </li>
 </ol>
 <br>
-Rest all the issues will be taken up separately on whatsapp and MS Teams
+
+
+<h1> Testing of App: </h1>
+
+* While programming an App, we will have to run our app multiple times to see its current status. 
+
+  
+* Running flutter on real device: Real devices provide an accurate representation of how your application will behave in the hands of real users.Real device testing allows you to assess the performance of your app in real-world scenarios.For this we can connect our phone to the programming device through USB cable. Here's a short tutorial for this:
+* [Run flutter app on real device](https://www.youtube.com/watch?v=v01ISnOIbL8)
+* (Alternative) Emulator: Emulators are virtual devices that mimic the behavior of real devices. They provide a simulated environment to test and debug your Flutter application. If someone prefers app emulator over real device, here's a tutorial explaining steps to be followed:
+*  [Android Virtual Device for Flutter](https://www.youtube.com/watch?v=tB1sjfijupU)
+
+*It needs to be noted that running an application in flutter may take time for the first time in both real device and virtal device (emulator).
+<br>
+<br>
+<br>
+<br>
+Rest all the issues will be taken up separately on WhatsApp and MS Teams
 
 <h3>The program can also be run through the Android Studio app.</h3>
 
