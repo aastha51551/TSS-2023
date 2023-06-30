@@ -21,6 +21,5 @@ Week 1 has come to an end. You were introduced to the world of app development, 
 > You can use the code given in the tutorial as reference.
 
 ***
-In case you are stuck somewhere, you can drop your queries in [MS Teams](https://teams.microsoft.com/l/team/19%3aOsl_YleuzDBdJtwhggo9RygyQSep5v54u5hs0kSTlrg1%40thread.tacv2/conversations?groupId=d5cd9977-8bae-4930-bded-5f79ebfb036c&tenantId=403ee5f4-55b3-45cd-8ae2-824be887a075)
-
+In case you are stuck somewhere, you can drop your queries in [WhatsApp](https://chat.whatsapp.com/EHA9cUj9vwOBjp1kHTmP9d)
 <p align="center"> Happy Coding !</p>
