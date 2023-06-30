@@ -85,7 +85,7 @@ Make sure you download the files in the correct directory and install the packag
 you require for your app.</li>
 </ol>
 
-<h2>Coming on how to correct individual crosses:-</h2>
+<h2>Solution to flutter doctor errors:-</h2>
 <ol>
 	
 <li>
