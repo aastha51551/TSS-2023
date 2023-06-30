@@ -107,15 +107,17 @@ Now open VS Code and use the command palette to start a new flutter project and 
 </li>
 </ol>
 <br>
+<h3>The program can also be run through the Android Studio app.</h3>
 
 
-<h1> Testing of App: </h1>
+<h1> Testing of App (Works for both MAC OS and Windows): </h1>
 
 * While programming an App, we will have to run our app multiple times to see its current status. 
 
   
 * Running flutter on real device: Real devices provide an accurate representation of how your application will behave in the hands of real users.Real device testing allows you to assess the performance of your app in real-world scenarios.For this we can connect our phone to the programming device through USB cable. Here's a short tutorial for this:
 * [Run flutter app on real device](https://www.youtube.com/watch?v=v01ISnOIbL8)
+* to get the developper settings on your android device saerch for kernel vesrion or build number, click on these multiple times and your phone will give you the notice when it is ready for development.
 * (Alternative) Emulator: Emulators are virtual devices that mimic the behavior of real devices. They provide a simulated environment to test and debug your Flutter application. If someone prefers app emulator over real device, here's a tutorial explaining steps to be followed:
 *  [Android Virtual Device for Flutter](https://www.youtube.com/watch?v=tB1sjfijupU)
 
@@ -126,6 +128,6 @@ Now open VS Code and use the command palette to start a new flutter project and 
 <br>
 Rest all the issues will be taken up separately on WhatsApp and MS Teams
 
-<h3>The program can also be run through the Android Studio app.</h3>
+
 
 
