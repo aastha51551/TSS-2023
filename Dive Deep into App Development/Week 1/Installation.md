@@ -123,7 +123,7 @@ Now open VS Code and use the command palette to start a new flutter project and 
 </li>
 </ol>
 <br>
-Rest all the issues will be taken up separately
+Rest all the issues will be taken up separately on whatsapp and MS Teams
 
 <h3>The program can also be run through the Android Studio app.</h3>
 
