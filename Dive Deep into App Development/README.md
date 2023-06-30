@@ -10,7 +10,7 @@ Discover the foundations of app development in this 4-week course. From UI desig
 
 If you are new to this world, you might be wondering what's **UI,front-end and back-end**?
 
-*UI* - UI design is the art of crafting engaging and user-friendly interfaces that seamlessly connect users to the digital world.In this course, you will learn everything from fundamental of UI design principles to UI design tools and prototyping.
+*UI* - UI design is the art of crafting engaging and user-friendly interfaces that seamlessly connect users to the digital world.In this course, you will learn everything from fundamental of UI design principles to UI design tools.
 
 *Front-end development* - Front-end app development focuses on building the visual and interactive components of an application that users directly interact with. By mastering front-end development, you will have the power to bring ideas to life and create seamless experiences that captivate users.For this we will be using **Google's Flutter SDK** which is used for crafting beautiful applications using a single codebase.
 
