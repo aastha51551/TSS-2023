@@ -8,9 +8,7 @@ Welcome to the exciting world of app development! In today's fast-paced digital 
 
 Discover the foundations of app development in this 4-week course. From UI design to front-end and back-end development, learn to create and deploy your own mobile applications.
 
-If you are new to this world, you might be wondering what's **UI,front-end and back-end**?
-
-*UI* - UI design is the art of crafting engaging and user-friendly interfaces that seamlessly connect users to the digital world.In this course, you will learn everything from fundamental of UI design principles to UI design tools.
+If you are new to this world, you might be wondering what's **Front-end and Back-end**?
 
 *Front-end development* - Front-end app development focuses on building the visual and interactive components of an application that users directly interact with. By mastering front-end development, you will have the power to bring ideas to life and create seamless experiences that captivate users.For this we will be using **Google's Flutter SDK** which is used for crafting beautiful applications using a single codebase.
 
@@ -34,40 +32,37 @@ Compared to its counterparts like React Native, Flutter is much easier to learn 
 
 **Week 1:** Introduction to App Development
 
-Understanding the basics of app development
-Overview of different app platforms (iOS, Android, etc.)
-Introduction to programming languages and frameworks for app development
+Understanding the basics of app development <br>
+Overview of different app platforms (iOS, Android, etc.) <br>
+Introduction to programming languages and frameworks for app development <br>
 Exploring app development tools and environments
 
-**Week 2:** User Interface (UI) Design and Layout
+**Week 2:** Front-end Development
 
-Fundamentals of UI design principles
-Creating visually appealing app layouts
-Understanding user interactions and feedback
-Introduction to UI design tools and prototyping
-
-**Week 3:** Front-end Development
-
-Introduction to front-end app development frameworks (e.g., React Native, Flutter)
-Building user interfaces with components and widgets
-Handling user input and navigation within the app
+Introduction to front-end app development frameworks (e.g., React Native, Flutter) <br>
+Building user interfaces with components and widgets <br>
+Handling user input and navigation within the app <br>
 Incorporating multimedia elements (images, videos, etc.) into the app
 
-**Week 4:** Back-end Development and App Deployment
+**Week 3:** Back-end Development
 
-Basics of back-end development for apps
+Basics of back-end development for apps <br>
 Working with databases and data storage
-Incorporating APIs for app functionality
-Testing and debugging the app
-Overview of app deployment options (app stores, beta testing, etc.)
+
+**Week 4:** 
+
+Integrating frontend and backend <br>
+Export application as apk and final touches. 
+
+
 
 **Assignment:** 1 assignment every week (20% each) and a final project, which would involve making a full-fledged app. (20%)
 
-**Certificate Criteria:** Complete at least 3 assignments and final project.
+**Certificate Criteria:** Submit at least 3 assignments and final project.
 
 **Course Moderators:**
 
-* Aditya Jain (9366303482)
+* Aaditya Jain (9366303482)
 * Aastha Sahoo (8144151551)
 * Shahu Patil  (9146050850)
 
