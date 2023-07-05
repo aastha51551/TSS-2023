@@ -41,7 +41,7 @@ Add the lines<br>
 `export ANDROID_HOME=/echo $USER/Library/Android/sdk`<br>
 `export PATH=$PATH:$ANDROID_HOME/tools`<br>
 `export PATH=$PATH:$ANDROID_HOME/platform-tools`<br>
-`export PATH="$PATH:/Users/echo $USER/Downloads/development/flutter/bin`
+`export PATH="$PATH:/Users/echo $USER/Downloads/development/flutter/bin"`
 in the file</li>
 
 <li>After this you need some softwares downloaded in your mac which include <br>
