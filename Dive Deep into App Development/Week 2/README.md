@@ -3,17 +3,17 @@
 <ol>
   <li>
     
-   [Widgets and OOP](https://github.com/wncc/TSS-2023/blob/main/Dive%20Deep%20into%20App%20Development/Week%202/Widgets_and_OOP.md)
+   [Widgets and OOP]()
     
   </li>
   <li>
     
-   [Packages and Firebase](https://github.com/wncc/TSS-2023/blob/main/Dive%20Deep%20into%20App%20Development/Week%202/packages.md)
+   [Packages and Firebase]()
     
   </li>
   <li>
     
-  [Assignment and Problem Statement (To be completed this week)](https://github.com/wncc/TSS-2023/blob/main/Dive%20Deep%20into%20App%20Development/Week%202/Assignment.md)
+  [Assignment and Problem Statement (To be completed this week)](https://github.com/aastha51551/TSS-2023/blob/main/Dive%20Deep%20into%20App%20Development/Week%202/Assignment.md)
   
   </li>
 </ol>
