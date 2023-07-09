@@ -36,6 +36,7 @@ Firebase offers various features and services that simplify common development t
 
 To link our application with Firebase, we must first integrate the Firebase SDK into our project by adding the necessary dependencies and configuration files. Once that is done, we can use Firebase's Authentication service to enable email and password authentication for our users. This will allow users to sign up with their email and password credentials and securely authenticate into our application. Firebase provides easy-to-use APIs and UI components to handle the authentication process, making it convenient to implement this feature. By leveraging Firebase's Authentication service, we can ensure a reliable and secure user authentication experience for our application.
 
-[Video Tutorial for Authentication Setup](https://youtu.be/rWamixHIKmQ).
+[Video Tutorial for Authentication Setup for IOS apps](https://youtu.be/rWamixHIKmQ).<br>
+[Video Tutorial for Authentication Setup for Android apps](https://youtu.be/__pouzxxkXw).
 <br>
 <br>
