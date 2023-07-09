@@ -30,7 +30,7 @@
 * Go through the [Basic Widgets](https://docs.flutter.dev/ui/widgets-intro)
 * Going into the depths of building layouts, here are some important topics:
 * [Layouts in Flutter](https://docs.flutter.dev/ui/layout)
-* [Tuorial](https://docs.flutter.dev/ui/layout/tutorial)
+* [Tutorial](https://docs.flutter.dev/ui/layout/tutorial)
 * [Understanding constraints](https://docs.flutter.dev/ui/layout/constraints)
 * [Box constraints](https://docs.flutter.dev/ui/layout/box-constraints)
 
