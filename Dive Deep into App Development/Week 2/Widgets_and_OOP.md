@@ -26,7 +26,7 @@
 * [Flutter tutorial- by NetNinja](https://youtu.be/1ukSR1GRtMU)
   
 
-### To have more clarity on widgets you can follow the flutter doumentation:
+### To have more clarity on widgets you can follow the flutter documentation:
 * Go through the [Basic Widgets](https://docs.flutter.dev/ui/widgets-intro)
 * Going into the depths of building layouts, here are some important topics:
 * [Layouts in Flutter](https://docs.flutter.dev/ui/layout)
