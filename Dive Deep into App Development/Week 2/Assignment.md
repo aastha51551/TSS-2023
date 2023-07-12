@@ -18,7 +18,8 @@ For this week's assignment, you will design a simple **Budget tracker** frontend
 
 Given below is a sample UI:
 
-![image](https://github.com/wncc/TSS-2023/assets/134774307/b54999ec-6eff-43a5-b147-0c6efeca4512)|![image](https://github.com/wncc/TSS-2023/assets/134774307/6bf1b38c-9160-45a5-bbb9-9f19c8b981bb)|![image](https://github.com/wncc/TSS-2023/assets/134774307/ef1faa04-4a8f-40ea-a88f-b4106008d731)
+![image](https://github.com/aastha51551/TSS-2023/assets/134774307/c78c388c-63f0-4079-942f-b984f71af7e4) ![image](https://github.com/aastha51551/TSS-2023/assets/134774307/8838ca0e-83f8-4710-a74f-8fa31c1a64c4) ![image](https://github.com/aastha51551/TSS-2023/assets/134774307/7f4a3d21-f5ca-48be-bba1-14a29353d0d2)
+
 
 ## Tasks
 * Create a new branch with the name: **RollNumber_IntroToAppDev_Week2(Example: 200040066_IntroToAppDev_Week2)**
