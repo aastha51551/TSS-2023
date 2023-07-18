@@ -10,6 +10,7 @@
 * Data retrival from external sources like news feed, weather forcast etc.
 * Encourages thrid party developers to build applications, plugins, or extensions on top of existing platforms or services.
 * To have better clarity, you can watch this upcoming video by [Code with Harry](https://www.youtube.com/watch?v=xiEmCw8n-iU)
+* Note that in Firebase, APIs are not used in the same way as in traditional API integrations. Firebase provides a comprehensive suite of backend services and tools that are accessed through SDKs (Software Development Kits) rather than traditional APIs.
 * If you haven't linked Flutter with Firebase for authentication service, before proceeding please watch [Video Tutorial for Authentication Setup](https://www.youtube.com/watch?v=rWamixHIKmQ)   
 
 # Flutter with Firebase:
